@@ -1,0 +1,1 @@
+You can see that we did a fast forward merege because there were no branches that diverge from the main branch. Additionally, all branches were merged with the develop branch at the time of the merge.
