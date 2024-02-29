@@ -1,1 +1,3 @@
 You can see that we did a fast forward merge because there were no branches that diverge from the develop branch. Additionally, all branches were merged with the develop branch at the time of the merge.
+
+Merge Conflict Scenario: In a collaborative project, the "develop" branch focuses on implementing new features, while the "conflict_branch" addresses a critical bug fix. Both branches concurrently modify a fundamental function within a shared file, leading to conflicting changes. When attempting to merge the branches, Git encounters a merge conflict, requiring manual intervention to adjust the differing alterations and ensure the codebase remains functional and coherent.
